@@ -11,7 +11,7 @@ def main() :
     # length = [1,2,3]
     # x = 2
     # print(result)
-    print(str(platfrm) + '\n')
+    print('Your Operating System is ' + str(platfrm) + '\n')
     time.sleep(1)
     if result == 'nt' :
         for deva in reversed(range(0,4)) :
