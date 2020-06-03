@@ -1,3 +1,3 @@
 # myfirstpython
 
-get name operating system and clear command terminal
+get name operating system and clear command terminal with delay time (time sleep)
