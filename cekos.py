@@ -12,6 +12,7 @@ def main() :
     # x = 2
     # print(result)
     print(platfrm)
+    print('\n')
     time.sleep(1)
     if result == 'nt' :
         for deva in reversed(range(0,4)) :
